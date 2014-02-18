@@ -27,6 +27,7 @@ public class Menu extends BasicGameState{
 	int positionMenu;
 	int positionPilote;
 	private Input input;
+	int temp;
 	
 	
 	@Override
